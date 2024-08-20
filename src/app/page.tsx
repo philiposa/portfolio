@@ -7,6 +7,7 @@ export default function Home() {
       <p className="text-lg text-center max-w-xl mb-8"> Hi, my name is Philipos Abrha and I work as a Software/DevOps Engineer. <br/> Explore my work and learn more about me.</p>
       <nav className="flex space-x-6">
         <a href="/about" className="text-blue-600 underline"> About Me</a>
+        <a href="/work" className="text-blue-600 underline"> Work Experience</a>
         <a href="/projects" className="text-blue-600 underline"> Projects </a>
         <a href="/contact" className="text-blue-600 underline">Contact</a>
       </nav>
