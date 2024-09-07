@@ -2,8 +2,8 @@ import ProjectExperience from "../components/ProjectExperience";
 
 export default function Projects() {
     return(
-        <main className="flex min-h-screen flex-col items-center justify-center p-24">
-        <h1 className="text-4xl font-bold mb-8">Here are some personal projects I have worked on</h1>
+        <main className="flex min-h-screen flex-col items-center justify-center p-8 bg-gray-100">
+        <h1 className="text-4xl font-bold mb-8 text-black">Here are some personal projects I have worked on</h1>
         <div>
         <ProjectExperience
         title = 'Autonomous Car Model'

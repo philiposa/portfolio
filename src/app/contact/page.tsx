@@ -2,8 +2,8 @@ import ContactEntry from "../components/ContactEntry";
 
 export default function Contact() {
     return (
-        <main className="flex min-h-screen flex-col items-center justify-center p-24">
-        <h1 className="text-4xl font-bold mb-8">Below are my methods of contact, feel free to use whichever is preferred</h1>
+        <main className="flex min-h-screen flex-col items-center justify-center p-8 bg-gray-100">
+        <h1 className="text-4xl font-bold mb-8 text-black">Below are my methods of contact, feel free to use whichever is preferred</h1>
         <div>
         <ContactEntry
         contactType="Email"

@@ -2,8 +2,8 @@ import JobExperience from "../components/JobExperience";
 
 export default function Work() {
     return(
-        <main className="flex min-h-screen flex-col items-center justify-center p-24">
-        <h1 className="text-4xl font-bold mb-8">Below you can find my work experience</h1>
+        <main className="flex min-h-screen flex-col items-center justify-center p-8 bg-gray-100">
+        <h1 className="text-4xl font-bold mb-8 text-black">Below you can find my work experience</h1>
         <div className="max-w-2xl">
         <JobExperience 
         title="Systems Developer, Intern"
